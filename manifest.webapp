@@ -1,8 +1,7 @@
 {
-  "name": "FindAll",
+  "name": "LookAroundApp",
   "version": "0.0.1",
   "developer":"Priyam Srivastava",
-  "launch_path":"app/index.html",
   "icons": {
     "16": "/icons/16x16.png",
     "48": "/icons/48x48.png",
